@@ -9,4 +9,5 @@ int main(){
 	cout << "Carrera : Ciencias de la Computacion\n";
 	cout << "Telefono : 68627565\n";
 	cout << "Correo : sermoni050607@gmail.com\n";
+	cout << "Universidad : UMRPSXCH\n";
 }
